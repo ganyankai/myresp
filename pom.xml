@@ -40,7 +40,7 @@
         <version.source.plugin>2.2</version.source.plugin>
         <version.resources.plugin>2.6</version.resources.plugin>
 
-        <poi.version>3.15</poi.version>
+        <poi.version>4.1.2</poi.version>
     </properties>
 
     <dependencies>
